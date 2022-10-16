@@ -43,6 +43,8 @@ The DevOps culture focuses on one goal throughout the entire software delivery l
 - **Service Level Agreement (SLA)**   
   Promise by a service provider to a service customer about availability. Usually less than SLO.
 
+![SLA vs SLO](image/sla-vs-slo.png)
+
 ## Site Reliability Engineering (SRE) tools
 
 **"Everything should be completely automated."**
@@ -161,12 +163,10 @@ Attribution of names must:
 In case a name includes multiple names of different scopes, it must be ordered from the larger scope to the smallest one. Thinking about how you would organize it in a folder hierarchy.
 
 For example, you have multiple configuration files in your project `myproj`:
-
 - for different environments (`dev` for development, `prod` for production)
 - for different components (`db` for a database, `app` for an application)
 
 The best practice, in this case, would be to choose the format:
-
 ```
 project_component_environment
 ```
