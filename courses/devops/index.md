@@ -2,8 +2,9 @@
 title: DevOps
 authors:
 - Sergei Kudinov <sergei@adaltas.com>
+- Guillaume Holdorf <guillaume.h@adaltas.com>
 school: DSTI
-period: Spring 2022
+period: Fall 2022
 feature: ./feature/index.png
 ---
 
@@ -13,4 +14,4 @@ The DevOps culture focus on one goal throughout the entire software delivery lif
 
 ## Prerequisites
 
-Web and database technologies, command line usage, basic programming skills.
+Learn the prerequisites [here](modules/00.prerequisites).
