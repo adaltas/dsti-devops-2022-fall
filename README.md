@@ -62,3 +62,5 @@ npm run clean && npm run develop
 Sergei Kudinov
 
 Guillaume Holdorf
+
+Paul-Adrien Cordonnier <pauladrien@adaltas.com>
