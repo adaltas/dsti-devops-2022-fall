@@ -3,6 +3,7 @@ title: DevOps
 authors:
 - Sergei Kudinov <sergei@adaltas.com>
 - Guillaume Holdorf <guillaume.h@adaltas.com>
+- Paul-Adrien Cordonnier <pauladrien@adaltas.com>
 school: DSTI
 period: Fall 2022
 feature: ./feature/index.png
