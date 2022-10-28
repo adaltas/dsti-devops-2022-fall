@@ -154,9 +154,9 @@ List of bonus tasks proposed:
 
 ## How to send a project for evaluation?
 
-1. **ATTENTION!** Make sure your repository is **PRIVATE** and **you have sent an invitation** to teacher's GitHub account - https://github.com/sergkudinov. Otherwise, **if it isn't PRIVATE the final grade will be reduced to 0**.
+1. **ATTENTION!** Make sure your repository is **PRIVATE** and **you have sent an invitation** to Guillaume Holdorf's GitHub account - https://github.com/GuillaumeHold. Otherwise, **if it isn't PRIVATE the final grade will be reduced to 0**.
 
-2. After you have sent the invitation, send an email to [sergei@adaltas.com](mailto:sergei@adaltas.com) containing the following:
+2. After you have sent the invitation, send an email to [guillaume.h@adaltas.com](mailto:guillaume.h@adaltas.com) containing the following:
 
   - **Subject format:** "DSTI - DevOps project - \<LASTNAME Firstname\> - \<Group number (ex: SI03)\>"
   - **Message:**
